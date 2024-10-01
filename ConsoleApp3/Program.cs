@@ -10,7 +10,7 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            int i = 11;
+            short i = 1;
             while (i <= 10)
             {
                 Console.WriteLine(i);
