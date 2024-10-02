@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp12;
+﻿namespace ConsoleApp13;
 
 class Program
 {

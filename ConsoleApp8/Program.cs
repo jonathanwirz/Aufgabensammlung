@@ -15,7 +15,7 @@ namespace ConsoleApp8
                 Console.WriteLine("Welche Zahl möchtest du in Binär wissen?");
                 input = Console.ReadLine();
 
-                if (input.ToLower() == "q")
+                if (input == "q")
                 {
                     isRunning = false;
                 }
